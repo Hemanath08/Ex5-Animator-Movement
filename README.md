@@ -28,8 +28,8 @@ Drag Animator Controller to the GameObject in the Inspector.
 
 ## Program :
 
-### DEVELOPED BY : Ashwin Kumar A
-### REG NO : 212223040021
+### DEVELOPED BY : K.HEMANATH
+### REG NO : 212223100012
 PlayerController:
 
 
@@ -64,6 +64,7 @@ public class Movement : MonoBehaviour
 ```
 ## Output :
 
+![alt text](<Screenshot 2025-11-11 090004.png>)
 
 ## Result :
 
